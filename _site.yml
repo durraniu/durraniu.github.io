@@ -13,13 +13,16 @@ navbar:
     - text: "Notebooks"
       icon: fa-rss
       href: http://rpubs.com/durraniu/    # CHANGE HERE 
+    - text: "Videos"
+      icon: fa-youtube
+      href: https://www.youtube.com/channel/UCoFElWAGOG8SL5FkYGqYAsQ   # CHANGE HERE 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:durraniu@uwindsor.ca                      # CHANGE HERE
     - text: ""
       icon: fa-linkedin
-      href: www.linkedin.com/in/durraniu 
+      href: https://linkedin.com/in/durraniu 
     - text: ""
       icon: fa-twitter
       href: https://twitter.com/umairdurrani87
