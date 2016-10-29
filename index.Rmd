@@ -1,5 +1,46 @@
 ---
-title: "Welcome to my website!"
+title: "Hello there, I am Umair Durrani"
 ---
 
-You're up and running!
+<style type="text/css">
+
+body, td {
+   font-size: 20px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+</style>
+  
+  
+  
+
+
+<div class = "row">
+<div class = "col-md-6">
+<br>
+<br>
+<p style="text-align: left;">
+I am a PhD student in Civil and Environmental Engineering at University of Windsor. My supervisors are [Chris Lee](http://www.uwindsor.ca/engineering/civil/92/dr-chris-lee/) and [Hanna Maoh](http://www.uwindsor.ca/engineering/civil/91/dr-hanna-maoh). My research is about driver behavior and its role in traffic safety in mixed traffic flow (cars and heavy-vehicles). `I love R and Rstudio`.     
+</p>  
+
+[Read more about me here](about.html){.continue-link}  
+[See my R Notebooks and Rmd docs here](http://rpubs.com/durraniu/)
+
+</div>
+<div class = "col-md-6">
+
+<br>
+<br>
+```{r fig.width=5, fig.height=3,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("photos/mypic.png")
+ grid.raster(img)
+```
+
+</div>
+</div>
