@@ -19,7 +19,7 @@ navbar:
       href: mailto:durraniu@uwindsor.ca                      # CHANGE HERE
     - text: ""
       icon: fa-linkedin
-      href: www.linkedin.com/in/durraniu
+      href: www.linkedin.com/in/durraniu 
     - text: ""
       icon: fa-twitter
       href: https://twitter.com/umairdurrani87
